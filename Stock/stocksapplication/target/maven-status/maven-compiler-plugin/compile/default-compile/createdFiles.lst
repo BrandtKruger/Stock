@@ -1,0 +1,12 @@
+com/bdg/kruger/stocksapplication/repository/StockRepositoryInterface.class
+com/bdg/kruger/stocksapplication/model/Stock.class
+com/bdg/kruger/stocksapplication/controller/StockController.class
+com/bdg/kruger/stocksapplication/exception/InvalidmountException.class
+com/bdg/kruger/stocksapplication/services/StockServices.class
+com/bdg/kruger/stocksapplication/stock/AddNewStock.class
+com/bdg/kruger/stocksapplication/exception/StockNotFoundException.class
+com/bdg/kruger/stocksapplication/exception/InvalidStockNameException.class
+com/bdg/kruger/stocksapplication/config/SwaggerConfig.class
+com/bdg/kruger/stocksapplication/repository/StockRepository.class
+com/bdg/kruger/stocksapplication/services/StockService.class
+com/bdg/kruger/stocksapplication/StocksApplication.class

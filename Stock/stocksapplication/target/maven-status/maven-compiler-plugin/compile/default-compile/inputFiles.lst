@@ -1,0 +1,12 @@
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/exception/InvalidmountException.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/StocksApplication.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/services/StockService.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/services/StockServices.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/controller/StockController.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/stock/AddNewStock.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/model/Stock.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/exception/StockNotFoundException.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/config/SwaggerConfig.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/repository/StockRepository.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/repository/StockRepositoryInterface.java
+/Users/brandtkruger/Documents/GIT/Stock/stocksapplication/src/main/java/com/bdg/kruger/stocksapplication/exception/InvalidStockNameException.java
